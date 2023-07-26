@@ -1,0 +1,5 @@
+pytorch-metric-learning
+faiss-cpu
+ftfy
+regex
+git+https://github.com/openai/CLIP.git
